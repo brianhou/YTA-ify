@@ -1,0 +1,8 @@
+{
+  "name": "YTA-ify",
+  "description": "Why watch something on YouTube when you can go on an adventure?",
+  "version": "0.1",
+  "permissions": ["tabs"],
+  "background": {"scripts": ["ytaify.js"]},
+  "manifest_version":2
+}
