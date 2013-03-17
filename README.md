@@ -1,6 +1,8 @@
 YTA-ify
 =======
 
-Like YTAdventure? Don't want to watch just one video? This is the Chrome extension for you!
+Like [YTAdventure](http://www.ytadventure.com/)? Don't want to watch just one video? This is the extension for you!
 
-(Warning: currently cannot watch anything on YouTube. This will be fixed, promise.)
+If you open a YouTube video link by mistake, YTA-ify will help you automatically open it in YTAdventure.
+
+Warning: This means that you can't watch anything on YouTube right now. This will be fixed. (Sorry.)
